@@ -8,4 +8,20 @@ The lesson will introduce different types of MRI modalities and how they can be 
 
 ## Setup
 
-See
+Check the details in [Setup](0-Setup.ipynb) notebook.
+
+Necessary packages:
+
+```
+pip install nibabel, nilearn, pybids
+conda install -c conda-forge dcm2niix datalad
+```
+
+## From the scanner to our computer
+
+Objectives:
+* Understand how different MRI modalities differ and what each one represents
+* Become familiar with converting MRI data from DICOM to NIfTI
+
+Check the details in [Scanner to Computer](1-Scanner_to_computer.ipynb) notebook.
+
