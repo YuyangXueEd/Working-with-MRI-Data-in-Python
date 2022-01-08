@@ -35,3 +35,16 @@ Objectives
 * View and manipulate image data
 
 Check the details in [Anatomy of a NIfTI](2-Anatomy_of_a_NIfTI.ipynb)
+
+## Brain Imaging Data Structure (BIDS)
+
+Objectives
+* Organize data in a simple and intuitive way
+* Use `BIDS Validator` to validate your data
+
+
+## Reference
+
+Michael Joseph, Jerrold Jeyachandra, and Erin Dickie (eds):
+"Data Carpentry: Introduction to MRI Data Analysis." Version 2019.11, November 2019,
+https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI
