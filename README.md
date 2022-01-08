@@ -25,3 +25,13 @@ Objectives:
 
 Check the details in [Scanner to Computer](1-Scanner_to_computer.ipynb) notebook.
 
+## Anatomy of a NIfTI
+
+Objectives
+* Introduce Python data types
+* Load an MRI scan into Python and understand how the data is stored
+* Understand what a voxel is
+* Introduce MRI coordinate systems
+* View and manipulate image data
+
+Check the details in [Anatomy of a NIfTI](2-Anatomy_of_a_NIfTI.ipynb)
