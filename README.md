@@ -42,7 +42,7 @@ Objectives
 * Organize data in a simple and intuitive way
 * Use `BIDS Validator` to validate your data
 
-Check the details in [Brain Imaging Data Structure (BIDS)](3-Brain_Imaging_Data_Structure_(BIDS).ipynb)
+Check the details in [Brain Imaging Data Structure (BIDS)](3-Brain_Imaging_Data_Structure_(BIDS).ipynb).
 ## Open MRI Datasets
 
 Objectives
@@ -50,7 +50,8 @@ Objectives
 * Introduce some open MRI datasets
 * Operations on these datasets
 
-Check the details in [Anatomy of a NIfTI](2-Anatomy_of_a_NIfTI.ipynb)
+Check the details in [Open MRI Datasets](4-Open_MRI_Datasets.ipynb).
+
 ## Reference
 
 Michael Joseph, Jerrold Jeyachandra, and Erin Dickie (eds):
