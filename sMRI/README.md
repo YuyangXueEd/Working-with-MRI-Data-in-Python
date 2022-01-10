@@ -39,5 +39,16 @@ Objectives:
 
 Check the detail in [sMRI Acquisition and Modalities](1-sMRI_Acquisition_and_Modalities.ipynb).
 
+## [sMRI Clean Up](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/02-Image_Cleanup/index.html)
 
+Questions: 
+* What are the sources of noise and artifacts in MR images?
+* How do we extract/mask the brain
 
+Objectives:
+* Visualize bias fields and motion artifacts
+* Generate brain masks
+
+Check the detail in [sMRI Clean-up](2-sMRI_Clean-up.ipynb).
+
+## 
