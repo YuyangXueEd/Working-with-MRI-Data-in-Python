@@ -70,4 +70,13 @@ Objectives:
 * Manipulate atlases to extraact regions of interests
 * Visualize and interact with both volumetric and surface data
 
-Check the details in [sMRI Segementation and Parcellation]()
+Check the details in [sMRI Segementation and Parcellation](4-sMRI%20Segmentation%20and%20Parcellation.ipynb)
+
+## [sMRI Quality Control](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/05-Image_QC/index.html)
+
+Objectives:
+
+* Visualize processing failures
+* Familiarize with automatic QC tools
+ 
+Check the details in [sMRI Quality Control]()
