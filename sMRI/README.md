@@ -63,4 +63,11 @@ Objectives:
 
 Check the details in [sMRI Spatial Normalization](3-sMRI_Spatial_Normalization.ipynb)
 
-## 
+##  [sMRI Segmentation and Parcellation](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/04-Image_Quantification/index.html)
+
+Objectives:
+* Understand and visualize tissue segementation
+* Manipulate atlases to extraact regions of interests
+* Visualize and interact with both volumetric and surface data
+
+Check the details in [sMRI Segementation and Parcellation]()
