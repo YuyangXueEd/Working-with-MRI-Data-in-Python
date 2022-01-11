@@ -49,6 +49,18 @@ Objectives:
 * Visualize bias fields and motion artifacts
 * Generate brain masks
 
-Check the detail in [sMRI Clean-up](2-sMRI_Clean-up.ipynb).
+Check the details in [sMRI Clean-up](2-sMRI_Clean-up.ipynb).
 
-##  
+##  [sMRI Spatial Normalization](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/03-Image_Spatial_Normalization/index.html)
+
+Questions:
+* What are reference coordinate systems
+* What are 'templates', 'atlases'?
+* What is spatial normalization?
+
+Objectives:
+* Understand reference spaces and registration process
+
+Check the details in [sMRI Spatial Normalization](3-sMRI_Spatial_Normalization.ipynb)
+
+## 
