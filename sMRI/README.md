@@ -51,4 +51,4 @@ Objectives:
 
 Check the detail in [sMRI Clean-up](2-sMRI_Clean-up.ipynb).
 
-## 
+##  
