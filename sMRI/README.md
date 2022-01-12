@@ -92,3 +92,11 @@ Objectives:
 There is some depricated function which cannot visualize modulation correctly. I will fix it later.
 
 Check the details in [sMRI Statistical Analysis](6-sMRI_Statistical_Analysis.ipynb)
+
+## [sMRI Reproducibility Considerations](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/07-Reproducibility/index.html)
+
+Objectives
+* Understand impact of software and atlas choices
+
+Check the details in [sMRI Analysis: Reproducibility Considerations
+](7-sMRI_Analysis_Reproducibility_Considerations.ipynb)
