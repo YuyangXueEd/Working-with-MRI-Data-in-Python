@@ -79,4 +79,14 @@ Objectives:
 * Visualize processing failures
 * Familiarize with automatic QC tools
  
-Check the details in [sMRI Quality Control]()
+Check the details in [sMRI Quality Control](5-sMRI_Quality_Control.ipynb)
+
+## [sMRI Statistical Analysis](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/06-Statistical_Analysis/index.html)
+
+Objectives:
+
+* Understand the main metrics characterizing the brain morphology
+* Extract and rely on a set of metrics to assess the effect of age on multiple cortical regions
+* Understand and implement voxel based morphometry to investigate the effect of age without predefined regions.
+
+Check the details in [sMRI Statistical Analysis](6-sMRI_Statistical_Analysis.ipynb)
