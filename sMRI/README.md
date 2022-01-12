@@ -89,4 +89,6 @@ Objectives:
 * Extract and rely on a set of metrics to assess the effect of age on multiple cortical regions
 * Understand and implement voxel based morphometry to investigate the effect of age without predefined regions.
 
+There is some depricated function which cannot visualize modulation correctly. I will fix it later.
+
 Check the details in [sMRI Statistical Analysis](6-sMRI_Statistical_Analysis.ipynb)
