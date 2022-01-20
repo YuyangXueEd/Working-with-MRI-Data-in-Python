@@ -7,7 +7,7 @@
 The primary goals are to:
 * Understand the basics of structural MR image acquisition
 * Familiarize yourself with structural MR image (pre)processing pipelines
-* Perform and visualize group-level neuronatomical analyses
+* Perform and visualize group-level neuroanatomical analyses
 
 Things to keep in mind:
 
@@ -18,7 +18,7 @@ Things to keep in mind:
 
 ## [Setup](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/setup.html)
 
-Setting up Python environement first, using Anaconda.
+Setting up Python environment first, using Anaconda.
 
 ```
 conda install -y numpy pandas scipy scikit-learn matplotlib seaborn jupyter ipykernel nb_conda
@@ -66,11 +66,11 @@ Check the details in [sMRI Spatial Normalization](3-sMRI_Spatial_Normalization.i
 ##  [sMRI Segmentation and Parcellation](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/04-Image_Quantification/index.html)
 
 Objectives:
-* Understand and visualize tissue segementation
-* Manipulate atlases to extraact regions of interests
+* Understand and visualize tissue segmentation
+* Manipulate atlases to extract regions of interests
 * Visualize and interact with both volumetric and surface data
 
-Check the details in [sMRI Segementation and Parcellation](4-sMRI%20Segmentation%20and%20Parcellation.ipynb)
+Check the details in [sMRI Segmentation and Parcellation](4-sMRI%20Segmentation%20and%20Parcellation.ipynb)
 
 ## [sMRI Quality Control](https://carpentries-incubator.github.io/SDC-BIDS-sMRI/05-Image_QC/index.html)
 
@@ -89,7 +89,7 @@ Objectives:
 * Extract and rely on a set of metrics to assess the effect of age on multiple cortical regions
 * Understand and implement voxel based morphometry to investigate the effect of age without predefined regions.
 
-There is some depricated function which cannot visualize modulation correctly. I will fix it later.
+There is some deprecated function which cannot visualize modulation correctly. I will fix it later.
 
 Check the details in [sMRI Statistical Analysis](6-sMRI_Statistical_Analysis.ipynb)
 
